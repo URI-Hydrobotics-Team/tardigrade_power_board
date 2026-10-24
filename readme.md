@@ -3,8 +3,8 @@ A small and simple PCB that offers regulated 5v output for pi, ~9v for jetson, a
 
 
 ## Requirements
-- 5V output for raspberry pi (USB-C) (switchable)
-- 9V output for jetson (switchable)
+- 3 seperate 5V output for raspberry pi (USB-C) (switchable)
+- 12V output for jetson (switchable)
 - switchable battery rail outputs (MiniFit JR)
 - power statistics (would be nice to have the ability to measure voltage maybe)
 - onboard MCU with serial interface
